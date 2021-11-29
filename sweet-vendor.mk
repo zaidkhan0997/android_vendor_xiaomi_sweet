@@ -1902,8 +1902,10 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     TimeService \
+    adreno_graphics_driver \
     com.qualcomm.qti.gpudrivers.sm6150.api30 \
     com.qualcomm.qti.improvetouch.service \
+    gpu_profiling_vulkan_layer \
     DeviceInfo \
     QtiTelephonyService \
     embms \
